@@ -1,0 +1,10 @@
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\bin\Debug\AgendaContatosCSharp.exe.config
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\bin\Debug\AgendaContatosCSharp.exe
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\bin\Debug\AgendaContatosCSharp.pdb
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosCShap.csprojAssemblyReference.cache
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosTreinaWeb.frmAgendaContatos.resources
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosCsharp.Properties.Resources.resources
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosCShap.csproj.GenerateResource.cache
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosCShap.csproj.CoreCompileInputs.cache
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosCSharp.exe
+C:\Users\Raywam\Downloads\f679zeYi-treinawebcsharpbasico\TreinaWeb.CSharpBasico\AgendaContatosTreinaWeb\obj\Debug\AgendaContatosCSharp.pdb

@@ -1,0 +1,4 @@
+NOME; EMAIL; TELEFONE
+Veronica; email; 565655
+Daiane; email; 51465456456
+Ana; email; 215154
